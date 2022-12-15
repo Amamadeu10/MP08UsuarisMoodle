@@ -56,6 +56,10 @@ Important al crear contrasenya!!!!!!
 
 Crea un alumne anomenat Cognom_1_alumne.
 
+<img width="579" alt="image" src="https://user-images.githubusercontent.com/100061627/207897072-37f61c74-802c-4b91-823c-310bff8284ba.png">
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/100061627/207897555-3fc0dd7f-5f84-4a03-9df1-9c74af49ddd3.png">
+
+
 Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
 
