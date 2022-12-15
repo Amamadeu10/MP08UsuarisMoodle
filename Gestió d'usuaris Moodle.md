@@ -66,6 +66,12 @@ Crea un alumne anomenat Cognom_1_alumne.
 Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
 
+Important al delimitador CSV seleccionar la ","
+
+<img width="587" alt="image" src="https://user-images.githubusercontent.com/100061627/207902352-de8a5c1d-7723-4cf1-a51e-77ecfb1bf95b.png">
+
+
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/100061627/207902442-3a9c2837-23b9-4bb2-95ac-8cf9b774acb4.png">
 
 
 Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
