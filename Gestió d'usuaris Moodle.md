@@ -76,6 +76,9 @@ Important al crear contrasenya!!!!!!
 
 <img width="914" alt="image" src="https://user-images.githubusercontent.com/100061627/207902442-3a9c2837-23b9-4bb2-95ac-8cf9b774acb4.png">
 
+<img width="878" alt="image" src="https://user-images.githubusercontent.com/100061627/207910962-10a1b091-50bf-446f-abb5-2ee1a46841bd.png">
+
+
 
 # Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/100061627/207905135-046849ab-f471-4f1e-9745-9b596d5f472d.png">
@@ -116,6 +119,22 @@ Important al crear contrasenya!!!!!!
 
 
 Afegeix a tots els alumnes a tots els cursos (els 5).
+
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/100061627/207911238-7bed1d7d-ec32-4c97-92a3-016957c700ec.png">
+
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/100061627/207911625-3ac14696-13e1-4074-929d-22130a224e7b.png">
+
+<img width="801" alt="image" src="https://user-images.githubusercontent.com/100061627/207912007-53757506-955d-4125-9158-b8a3e8ec8a18.png">
+
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/100061627/207912717-4dbc87f0-933c-4061-b1d4-16351e618b58.png">
+
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/100061627/207913234-cfb156d9-e501-4027-8b6d-0ed01aa6ef4b.png">
+
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/100061627/207913425-93300cb7-17d6-4852-9071-b91f01c117cc.png">
+
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/100061627/207913545-b43c1020-cccc-40bd-a6cc-1c479d45a6f6.png">
+
+
 
 Mostra l'apartat Participants de cada curs.
 
