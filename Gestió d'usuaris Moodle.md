@@ -96,7 +96,24 @@ Important al crear contrasenya!!!!!!
 
 
 
-Fes que Cognom_3_profe sigui professor de tots els cursos.
+# Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/100061627/207909359-d8d64d8b-3350-465b-845f-909f86b69b91.png">
+
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/100061627/207909551-88308beb-6829-41dc-9aa5-077a0e4459e7.png">
+
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/100061627/207909666-82e5354b-41dc-4a3b-aa9c-f7267044c3b8.png">
+
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/100061627/207909754-6d5c472f-2d8c-4232-bc2c-69a8d7c1801b.png">
+
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/100061627/207909878-ec97449b-a16a-463a-8772-825b87cf659f.png">
+
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/100061627/207910008-4fbef7b2-243b-4acf-a69a-6950e0d8f54d.png">
+
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/100061627/207910332-2e5a8469-fbff-4871-96e8-56c68e0639fb.png">
+
+
+
 
 Afegeix a tots els alumnes a tots els cursos (els 5).
 
