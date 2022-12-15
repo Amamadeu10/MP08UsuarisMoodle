@@ -86,7 +86,15 @@ Important al crear contrasenya!!!!!!
 
 <img width="793" alt="image" src="https://user-images.githubusercontent.com/100061627/207905629-a302850e-ab5c-4ba9-a078-95c447e286b6.png">
 
-Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+# Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+<img width="759" alt="image" src="https://user-images.githubusercontent.com/100061627/207906108-1ce21425-399d-46f2-9afd-72eac134b82b.png">
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/100061627/207906386-523087b6-03a4-4a59-89bd-ec65c043f56c.png">
+
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/100061627/207907404-f2601322-c54b-4d3a-b245-71f201e0a464.png">
+
+
 
 Fes que Cognom_3_profe sigui professor de tots els cursos.
 
