@@ -10,14 +10,20 @@
 ## Usuaris:
 # Dins de Moodle hi ha diferents tipus d'usuaris:
 
-Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
+# Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
 
 Gestor, crador de cursos, professor, professor no editor, estudiant, visitant, usuari autenticat i usuari autenticat a la primera plana.
 
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/100061627/207890502-2b714767-c27e-4cc6-a32c-0cb6e639799d.png">
 
 
-Quins rols poden assignar cada tipus d'usuaris?
+# Quins rols poden assignar cada tipus d'usuaris?
+<img width="857" alt="image" src="https://user-images.githubusercontent.com/100061627/207892139-d3eb837b-efae-4e06-a586-f97ca172d358.png">
+
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/100061627/207892204-71f4750a-8ad2-4772-b3aa-b8be0a28becc.png">
+
+
+
 
 Crea tres usuaris:
 
