@@ -28,7 +28,10 @@ Gestor, crador de cursos, professor, professor no editor, estudiant, visitant, u
 
 
 
-Crea tres usuaris:
+# Crea tres usuaris:
+
+<img width="909" alt="image" src="https://user-images.githubusercontent.com/100061627/207897806-04684185-f58b-4602-b571-778c74069366.png">
+
 
 # Un Professor anomenat Cognom_1_profe.
 
