@@ -23,15 +23,36 @@ Gestor, crador de cursos, professor, professor no editor, estudiant, visitant, u
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/100061627/207892204-71f4750a-8ad2-4772-b3aa-b8be0a28becc.png">
 
 
+<img width="851" alt="image" src="https://user-images.githubusercontent.com/100061627/207892409-42a9bd4d-c2df-4485-9507-43c3288be566.png">
+
+
 
 
 Crea tres usuaris:
 
-Un Professor anomenat Cognom_1_profe.
+# Un Professor anomenat Cognom_1_profe.
 
-Un Professor anomenat Cognom_2_profe.
+Important al crear contrasenya!!!!!!
 
-Un professor No editor anomenat Cognom_3_profe.
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/100061627/207893271-1fd0944a-77d5-453c-b4e7-f8c0b83e6633.png">
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/100061627/207895811-86e17d05-367f-4de0-9ce6-d41447fea337.png">
+
+
+
+
+
+# Un Professor anomenat Cognom_2_profe.
+
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/100061627/207893642-c8d0b7b3-3dba-4821-9f85-9b69d7cf9b39.png">
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/100061627/207895921-c5ec7e39-fca5-4904-bdec-d17b22ac2afc.png">
+
+
+
+# Un professor No editor anomenat Cognom_3_profe.
+
+<img width="587" alt="image" src="https://user-images.githubusercontent.com/100061627/207896090-a6f642ba-f4af-49be-9194-f53ee9d5c6cb.png">
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/100061627/207896270-d92f9203-daf6-41e4-b3da-2b94f1ee276b.png">
+
 
 Crea un alumne anomenat Cognom_1_alumne.
 
