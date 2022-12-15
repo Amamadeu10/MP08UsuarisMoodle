@@ -139,12 +139,19 @@ Afegeix a tots els alumnes a tots els cursos (els 5).
 Mostra l'apartat Participants de cada curs.
 
 Què són les Cohorts?
+Les cohorts són grups a tota l'amplada del lloc o de tota una categoria de cursos.
 
 Perquè serveixen?
+
+El propòsit de les cohorts és permetre a tots els membres de la cohort ser inscrits (matriculats) fàcilment en un curs. Alternativament, una cohort pot ser inscrita (matriculada) manualment en un curs.
 
 Què són els grups?
 
+Es un conjunt de alumnes.
+
 Perquè serveixen?
+
+Serveix per a dividir en un mateix curs diferents grups com A, B, C, etc.
 
 Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
