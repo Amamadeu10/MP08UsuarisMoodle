@@ -155,4 +155,5 @@ Serveix per a dividir en un mateix curs diferents grups com A, B, C, etc.
 
 Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/100061627/207944835-b2a25f5d-1565-48c8-9fc6-1a4d8debf03e.png">
 
