@@ -53,10 +53,23 @@ Cursos:
 
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/100061627/208467756-3112c4dd-2db7-4e11-a09b-7c566394023f.png">
 
-Contesta les preguntes amb un perfil de professor.
-Crea un tema anomenat "Fonaments de Python".
-Oculta la resta de temes del curs.
-Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
+# Contesta les preguntes amb un perfil de professor.
+ 
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/100061627/208470824-23d0d0e6-1fd9-4545-9b72-5ff637845c22.png">
+
+# Crea un tema anomenat "Fonaments de Python".
+
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/100061627/208472553-96d4ed8b-728b-4c67-8df3-3a175262de47.png">
+
+# Oculta la resta de temes del curs.
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/100061627/208472660-27cfb447-d662-4f7f-aa0f-4e22767872f4.png">
+
+# Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar i<img width="844" alt="image" src="https://user-images.githubusercontent.com/100061627/208477672-f988ec80-4af5-4563-83b9-2e04a1d64e77.png">nfo aqui.
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/100061627/208472959-7d7f29d2-d749-46c1-9d13-f63d422588e0.png">
+![Uploading image.png…]()
+
 Fes que els alumnes contestin la tasca (mínim 3).
 Qualifica la tasca de l'alumnat.
 Mostra les qualificacions de l'alumnat.
