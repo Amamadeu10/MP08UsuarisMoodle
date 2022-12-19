@@ -159,5 +159,6 @@ Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/100061627/207944835-b2a25f5d-1565-48c8-9fc6-1a4d8debf03e.png">
 
 
-![Uploading image.png…]()
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/100061627/208457572-550c4d15-3d75-4e94-afcb-16580b6d7f95.png">
+
 
