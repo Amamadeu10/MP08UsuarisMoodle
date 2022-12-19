@@ -43,8 +43,16 @@ Cursos:
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/100061627/208465110-88749762-5e20-46ef-b8cd-7edd4788608f.png">
 
-Crea un fòrum general de dubtes (el d'anuncis no serveix).
-Fes que dos estudiants fassin consultes al fòrum.
+# Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/100061627/208466265-f57fd75e-4ec1-4e20-9d88-b7e9a2563008.png">
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/100061627/208466334-3fce685e-410e-4381-b683-fc3205b71338.png">
+
+
+# Fes que dos estudiants fassin consultes al fòrum.
+
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/100061627/208467756-3112c4dd-2db7-4e11-a09b-7c566394023f.png">
+
 Contesta les preguntes amb un perfil de professor.
 Crea un tema anomenat "Fonaments de Python".
 Oculta la resta de temes del curs.
