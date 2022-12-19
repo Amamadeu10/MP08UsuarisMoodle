@@ -134,6 +134,7 @@ Afegeix a tots els alumnes a tots els cursos (els 5).
 
 <img width="805" alt="image" src="https://user-images.githubusercontent.com/100061627/207913545-b43c1020-cccc-40bd-a6cc-1c479d45a6f6.png">
 
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/100061627/208457443-8d5f4115-c6f1-4017-a90a-510b99a8c59d.png">
 
 
 Mostra l'apartat Participants de cada curs.
@@ -156,4 +157,7 @@ Serveix per a dividir en un mateix curs diferents grups com A, B, C, etc.
 Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/100061627/207944835-b2a25f5d-1565-48c8-9fc6-1a4d8debf03e.png">
+
+
+![Uploading image.png…]()
 
