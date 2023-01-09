@@ -105,4 +105,4 @@ Afegeix a baix de tot "Usuaris en línia".
 Canvia el tema del Moodle:
 Vigila que sigui un tema suportat per la teva versió de Moodle:
 
-Pàgina amb temes. Com canviar el tema.
+Pàgina amb temes. Com canviar el tema..
