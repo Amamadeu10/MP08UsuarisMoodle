@@ -91,7 +91,13 @@ Mostra les qualificacions de l'alumnat.
 
 
 ## Com a alumne/a contesta la consulta.
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/100061627/212098032-77e4d50b-9764-401f-b1c7-34f79c92fd14.png">
+
 ## Com a professor mostra les contestacions de la consulta.
+
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/100061627/212098281-bfbab0a8-9cec-43cc-8f72-177f82cf12a9.png">
+
 Seguretat del lloc:
 image
 
