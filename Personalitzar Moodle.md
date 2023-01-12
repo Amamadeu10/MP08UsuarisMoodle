@@ -82,9 +82,16 @@ Mostra les qualificacions de l'alumnat.
 
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/100061627/208486753-2351e35d-dcb3-4e04-a5b8-d5be3176f6df.png">
 
-# Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
-# Com a alumne/a contesta la consulta.
-# Com a professor mostra les contestacions de la consulta.
+## Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/100061627/212095946-164d81ae-bae4-497a-8c16-b7085e06067b.png">
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/100061627/212096031-1f96107d-c170-4c40-832a-5fea20b30e68.png">
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/100061627/212096262-2808caba-29fc-49fb-ad2c-ef563b8cdb92.png">
+
+
+
+## Com a alumne/a contesta la consulta.
+## Com a professor mostra les contestacions de la consulta.
 Seguretat del lloc:
 image
 
