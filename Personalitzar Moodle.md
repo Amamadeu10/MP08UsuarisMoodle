@@ -127,12 +127,15 @@ Tracta que els alumnes aconsegueixin recompenses i insígnies mentre fan activit
 
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/100061627/212113493-5d6d4883-473d-4306-9efc-75b1c493572a.png">
 
-## Plugin Mod Quizgame
+## Plugin Custom Certificate
 
-<img width="405" alt="image" src="https://user-images.githubusercontent.com/100061627/212115313-1f86b345-bd25-47f1-82b7-9cd24d1dc18d.png">
+Aquest plugin serveis per generar diplomes, és per a puntuacions altes o paregut
+
+<img width="884" alt="image" src="https://user-images.githubusercontent.com/100061627/212120043-61e8536c-59d7-4f4f-8853-429659b5f270.png">
+
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/100061627/212120482-c140f3e3-a7ef-4933-8655-ca83d4e0950f.png">
 
 
-<img width="621" alt="image" src="https://user-images.githubusercontent.com/100061627/212115402-7e1407de-5dd2-4d72-9142-8a6098b3349d.png">
 
 
 
