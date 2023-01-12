@@ -102,12 +102,34 @@ Seguretat del lloc:
 image
 
 Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho.
-Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
+## Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
 Tinguin mínim 10 caràcters.
 Tinguin 2 dígits.
 Tinguin 3 maiúscules.
-Plugins:
-Instal·la 2 plugins de Moodle i explica què fan.
+
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/100061627/212099782-5bf84566-f804-4b05-ba81-ae3f8df97f1e.png">
+
+## Plugins:
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/100061627/212101593-986cb942-270f-4601-aa9d-4655ed5773a3.png">
+
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/100061627/212103152-075a2fd3-bcf1-4c9a-94af-c2384d4c2374.png">
+
+## Instal·la 2 plugins de Moodle i explica què fan.
+
+Important donar permisos!!!!!
+
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/100061627/212110641-7ae932c9-e7ed-4aeb-8a19-455ef25c4cb2.png">
+
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/100061627/212110811-b3706bfe-6a83-4a86-a004-654db7fe1888.png">
+
+## Plugin Puja de Nivell! Plus
+Tracta que els alumnes aconsegueixin recompenses i insígnies mentre fan activitats, quan més i millors les facin millor serà la reputació d'ells i millors recompenses tindran.
+
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/100061627/212113493-5d6d4883-473d-4306-9efc-75b1c493572a.png">
+
+
+
+
 Personalització del tauler d'usuaris:
 image
 
