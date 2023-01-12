@@ -101,7 +101,18 @@ Mostra les qualificacions de l'alumnat.
 Seguretat del lloc:
 image
 
-Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho.
+## Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho.
+
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/100061627/212152444-81870c1d-f388-4a02-9148-36d1c57dc1a2.png">
+
+
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/100061627/212152614-bb2e1571-71e1-4a0a-912a-b08643736f02.png">
+
+
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/100061627/212152972-addc6f67-1172-451b-b807-2bdfbac34e79.png">
+
+
+
 ## Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
 Tinguin mínim 10 caràcters.
 Tinguin 2 dígits.
