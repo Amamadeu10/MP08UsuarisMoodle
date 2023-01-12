@@ -160,5 +160,12 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/100061627/212124339-8a7d4b2a-25bb-4757-8e04-a626e5c314cc.png">
 
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/100061627/212129693-bd1d2e19-6e6e-4b1b-90f7-8b11bb204e59.png">
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/100061627/212129912-77b93338-1036-43b8-8fd1-ba34bcaa1a2f.png">
+
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/100061627/212130083-9026c38d-5ba3-466d-8e8d-46122256f177.png">
+
+
 
 
