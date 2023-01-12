@@ -122,6 +122,11 @@ Important donar permisos!!!!!
 
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/100061627/212110811-b3706bfe-6a83-4a86-a004-654db7fe1888.png">
 
+Impoprtant cambiar mida php.ini
+
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/100061627/212123768-752c7212-9a61-4a88-a294-4ed3bcd53052.png">
+
+
 ## Plugin Puja de Nivell! Plus
 Tracta que els alumnes aconsegueixin recompenses i insígnies mentre fan activitats, quan més i millors les facin millor serà la reputació d'ells i millors recompenses tindran.
 
@@ -152,4 +157,8 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 ## Pàgina amb temes. Com canviar el tema.
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/100061627/211338763-4d27e4bc-201c-4464-9de2-70ce66e8cfde.png">
+
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/100061627/212124339-8a7d4b2a-25bb-4757-8e04-a626e5c314cc.png">
+
+
 
